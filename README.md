@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my GitHub Profile
 
-I’m a **Software Development Student** passionate about **programming** 💻.  
-I enjoy **teamwork** 🤝 and I’m very **collaborative in projects** 🚀.  
+I’m a **Software Development Student** passionate about **programming** 💻.  
+I enjoy **teamwork** 🤝 and I’m very **collaborative in projects** 🚀.  
 Always looking to learn new technologies and improve my skills every day.
 
 ---
@@ -29,7 +29,7 @@ Always looking to learn new technologies and improve my skills every day.
 
 ### 🔹 Other Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00618D?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -46,7 +46,7 @@ Always looking to learn new technologies and improve my skills every day.
 ---
 
 ## 📫 Connect with Me
-- 💬 Feel free to ask me anything—I’m always happy to help!  
+- 💬 Feel free to ask me anything—I’m always happy to help!  
 - 🌐 [Check out my GitHub Profile](https://github.com/Edison-Avellaneda-Coder)
 
 ---
